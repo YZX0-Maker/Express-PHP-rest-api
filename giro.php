@@ -1,4 +1,5 @@
 <?php
+/*****YZX0MAKER <www class="twitter com">@YZX0Long*/
 $serv = "https://48ae-191-89-51-208.ngrok.io";
 if($_GET['id']=='cobGIRO') {
     $fields = array(
